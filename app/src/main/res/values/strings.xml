@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Morse To Text</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="convert_to_morse_code">Convert To Morse Code</string>
+</resources>
